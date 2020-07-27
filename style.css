@@ -327,6 +327,7 @@ html {
     font-weight: normal;
     font-size: 20px;
     position: relative;
+    text-align: justify;
     }
     
     
@@ -390,7 +391,7 @@ html {
         font-size: 18px;
         color: #000;
         line-height: 25px;
-        text-align: center;
+        text-align: justify;
     }
 
     .list-para{
@@ -473,7 +474,7 @@ html {
     color: #04323e;
     }
     .create-para{
-        text-align: left;
+        text-align: justify;
         font-family: Abel;
     font-style: normal;
     font-weight:normal;
@@ -570,7 +571,7 @@ html {
         position:none;
     top:0;
     transform: none;
-    text-align: center;
+    text-align: justify;
     }
     .insta-heading{
         position:none;
@@ -583,7 +584,7 @@ html {
         text-align: center;
     }
     .create-para{
-        text-align: center;
+        text-align: justify;
         font-size: 18px;
     }
     
@@ -1054,6 +1055,7 @@ html {
     }
     .insta-content{
         font-size: 18px;
+        text-align: justify;
     }
 }
 
@@ -1094,6 +1096,7 @@ html {
 @media only screen and (max-width:320px){
     .create-para{
         font-size: 17px;
+        text-align: justify;
     }
 
     #crt_cont{
