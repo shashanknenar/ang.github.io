@@ -36,7 +36,7 @@
     height: auto;
 }
 .testimonial .description{
-	font-family: Avenir;
+	font-family: Abel;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 18px;
@@ -49,14 +49,14 @@
 
     color: #212353;
 	margin: 0;
-	font-family: Avenir;
+	font-family: Abel;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
 }
 .testimonial .post{
     display: inline-block;
-	font-family: Avenir;
+	font-family: Abel;
 	font-style: normal;
 	font-weight: 500;
 	font-size: 14px;
@@ -85,7 +85,7 @@ font-size: 18px;
 
 .testimonial-heading{
 	
-font-family: Helvetica;
+font-family: Abel;
 font-style: normal;
 font-weight: bold;
 margin-left: 3%;
@@ -104,7 +104,7 @@ margin-top: 150px;
 }
 
 .insta-heading{
-	font-family: Helvetica;
+	font-family: Abel;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 40px;
@@ -117,7 +117,7 @@ margin-top: 150px;
 
 .insta-content{
 	color: #4B5D68;
-	font-family: Avenir;
+	font-family: Abel;
 font-style: normal;
 font-weight: 500;
 font-size: 18px;
@@ -147,7 +147,7 @@ margin-top: 150px;
 }
 
 .expert-title{
-	font-family: Helvetica;
+	font-family: Abel;
 font-style: normal;
 font-weight: bold;
 font-size: 40px;
@@ -156,7 +156,7 @@ text-align: center;
 }
 
 .expert-subtitle{
-	font-family: Avenir;
+	font-family: Abel;
 font-style: normal;
 font-weight: 500;
 font-size: 18px;
@@ -174,7 +174,7 @@ margin-top: 5%;
 }
 
 .expert-heading{
-	font-family: Helvetica;
+	font-family: Abel;
 font-style: normal;
 font-weight: normal;
 font-size: 24px;
@@ -183,7 +183,7 @@ color: #212353;
 
 }
 .expert-para{
-	font-family: Avenir;
+	font-family: Abel;
 font-style: normal;
 font-weight: normal;
 color: #4B5D68;
@@ -192,7 +192,7 @@ font-size: 16px;
 
 }
 .footer-p1{
-font-family: Avenir;
+font-family: Abel;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -201,7 +201,7 @@ text-align: left;
 }
 
 .footer-p2{
-	font-family: Avenir;
+	font-family: Abel;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
@@ -210,7 +210,7 @@ text-align: left;
 }
 
 .footer-heading2{
-	font-family: Avenir;
+	font-family: Abel;
 font-style: normal;
 font-weight: 800;
 font-size: 16px;
@@ -218,7 +218,7 @@ color: #212353;
 
 }
 .footer-2-ul{
-	font-family: Avenir;
+	font-family: Abel;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
@@ -248,7 +248,7 @@ ul{
 	width: 35px;
 }
 .copyright{
-	font-family: Avenir;
+	font-family: Abel;
 font-style: normal;
 font-weight: normal;
 font-size: 12px;
@@ -256,7 +256,7 @@ color: #212353;
 }
 
 .create-heading{
-	font-family: Helvetica;
+	font-family: Abel;
 font-style: normal;
 font-weight: bold;
 font-size: 80px;
@@ -264,7 +264,7 @@ color: #212353;
 }
 .create-para{
 	text-align: left;
-	font-family: Avenir;
+	font-family: Abel;
 font-style: normal;
 font-weight: 500;
 font-size: 18px;
