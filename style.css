@@ -1,4 +1,8 @@
 
+@font-face{
+    font-family: Abel; 
+    src: url(Abel-Regular.ttf)
+  }
 html {
     scroll-behavior: smooth;
   }
@@ -1143,9 +1147,6 @@ html {
 .list-center{
     padding-left: 165px;
    
-}
-body{
-    font-family: Abel !important;
 }
 
 
