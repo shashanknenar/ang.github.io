@@ -1,7 +1,7 @@
 
 @font-face{
-    font-family: Abel; 
-    src: url(Oswald-VariableFont_wght.ttf)
+    font-family: Helvetica; 
+    src: url()
   }
 html {
     scroll-behavior: smooth;
