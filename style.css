@@ -3,6 +3,10 @@
     font-family: Helvetica; 
     src: url()
   }
+
+body{
+    font-family: Helvetica;
+}
 html {
     scroll-behavior: smooth;
   }
@@ -18,7 +22,6 @@ html {
     font-weight: bold;
     top: 50%;
     z-index: -1;
-    font-family: Abel;
   }
 
  nav {
@@ -57,7 +60,6 @@ html {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 14px;
-    font-family: Abel;
     font-weight: 700;
   }
 
@@ -70,7 +72,6 @@ html {
         padding: 14px 16px;
         text-decoration: none;
         font-size: 14px;
-        font-family: Abel;
         font-weight: 500;
   }
    
@@ -80,7 +81,6 @@ html {
   }
 
   .menu a{
-    font-family: Abel;
     font-weight: bold;
     text-decoration: none;
     font-size: 14px;
@@ -209,14 +209,12 @@ html {
         margin-top:130px ;
         color: #04323e;
       text-align: center    ;
-        font-family: Abel;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
     }
     .testimonial .post{
         display: inline-block;
-        font-family: Abel;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -262,7 +260,6 @@ html {
             margin-top:0px !important ;
             color: #04323e;
           text-align: center    ;
-            font-family: Abel;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
@@ -272,7 +269,6 @@ html {
             color: #000;
             top: 10% !important;
             font-size: 23px !important;
-            font-family: Abel;
         }
 
         nav i{
@@ -292,7 +288,6 @@ html {
     
     .testimonial-heading{
     
-    font-family: Abel;
     font-style: normal;
     font-weight: bold;
     margin-left: 3%;
@@ -311,7 +306,6 @@ html {
     }
     
     .insta-heading{
-        font-family: Abel;
         font-style: normal;
         font-weight: bold;
         font-size: 40px;
@@ -323,7 +317,6 @@ html {
     
     .insta-content{
         color: #000;
-        font-family: Abel;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -350,7 +343,6 @@ html {
     }
     
     .expert-title{
-        font-family: Abel;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -359,7 +351,6 @@ html {
     }
     
     .expert-subtitle{
-        font-family: Abel;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -377,7 +368,6 @@ html {
     }
     
     .expert-heading{
-        font-family: Abel;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -386,7 +376,6 @@ html {
     
     }
     .expert-para{
-        font-family: Abel;
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
@@ -396,7 +385,6 @@ html {
     }
 
     .list-para{
-        font-family: Abel;
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
@@ -404,7 +392,6 @@ html {
         line-height: 25px;
     }
     .footer-p1{
-    font-family: Abel;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -413,7 +400,6 @@ html {
     }
     
     .footer-p2{
-        font-family: Abel;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -422,7 +408,6 @@ html {
     }
     
     .footer-heading2{
-        font-family: Abel;
     font-style: normal;
     font-weight: 800;
     font-size: 16px;
@@ -430,7 +415,6 @@ html {
     
     }
     .footer-2-ul{
-        font-family: Abel;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -460,7 +444,6 @@ html {
         width: 35px;
     }
     .copyright{
-        font-family: Abel;
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
@@ -468,7 +451,6 @@ html {
     }
     
     .create-heading{
-    font-family: Abel;
     font-style: normal;
     font-weight: bold;
     font-size: 80px;
@@ -476,7 +458,6 @@ html {
     }
     .create-para{
         text-align: justify;
-        font-family: Abel;
     font-style: normal;
     font-weight:normal;
     font-size: 18px;
@@ -767,7 +748,6 @@ html {
 
         .carousel-caption{
             font-size: 50px !important;
-            font-family: Abel;
         }
         
         .create-container{
@@ -1005,7 +985,6 @@ html {
         margin-top: 10px;
         text-align: center;
         overflow: hidden;
-        font-family: Abel;
         font-style: normal;
         font-weight: bold;
         font-size: 100px;
@@ -1086,7 +1065,6 @@ html {
         color: #04323e;
         margin-top: 0 !important;
       text-align: center    ;
-        font-family: Abel;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
