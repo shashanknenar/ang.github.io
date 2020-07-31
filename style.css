@@ -5,7 +5,7 @@
   }
 
 body{
-    font-family: Helvetica;
+    font-family: Helvetica !important;
 }
 html {
     scroll-behavior: smooth;
